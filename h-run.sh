@@ -4,11 +4,11 @@ cd `dirname $0`
 
 
 #installing libuv1 if necessary
-[[ `dpkg -s libuv1 2>/dev/null | grep -c "ok installed"` -eq 0 ]] && apt-get install -y libuv1
+#[[ `dpkg -s libuv1 2>/dev/null | grep -c "ok installed"` -eq 0 ]] && apt-get install -y libuv1
 
 #Ubuntu 18.04 compat
-[[ -e /usr/lib/x86_64-linux-gnu/libcurl-compat.so.3.0.0 ]] &&
-	export LD_PRELOAD=libcurl-compat.so.3.0.0
+#[[ -e /usr/lib/x86_64-linux-gnu/libcurl-compat.so.3.0.0 ]] &&
+#	export LD_PRELOAD=libcurl-compat.so.3.0.0
 
 [ -t 1 ] && . colors
 

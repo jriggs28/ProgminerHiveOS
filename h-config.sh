@@ -5,7 +5,7 @@
 [[ -z $CUSTOM_URL ]] && echo -e "${YELLOW}CUSTOM_URL is empty${NOCOLOR}" && return 1
 
 CUSTOM_ALGO=ProgPowZ
-conf="--url ${CUSTOM_URL} --user ${CUSTOM_TEMPLATE} --pass ${CUSTOM_PASS} --api-port 60050 ${CUSTOM_USER_CONFIG}"
+conf="-P stratum1+tcp://${CUSTOM_TEMPLATE}@${CUSTOM_URL} --api-port 60050 ${CUSTOM_USER_CONFIG}"
 
 #replace tpl values in whole file
 [[ -z $EWAL && -z $ZWAL && -z $DWAL ]] && echo -e "${RED}No WAL address is set${NOCOLOR}"
