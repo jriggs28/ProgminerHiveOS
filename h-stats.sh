@@ -31,9 +31,7 @@ else
 	local ver=`echo $stats_raw | jq -r '.[0]'`
 
 	local algo="progpow"
-#	[[ $ETHMINER_FORK == "progpow" ]] && algo="progpow"
-#	[[ $ETHMINER_FORK == "ubqminer" ]] && algo="ubiqhash"
-#	[[ $ETHMINER_FORK == "zilminer" ]] && algo="zilliqahash"
+
 	stats=$(jq -n \
 		--arg uptime "`echo \"$stats_raw\" | jq -r '.[1]' | awk '{print $1*60}'`" \
 		--argjson hs "$hs" --argjson temp "$temp" --argjson fan "$fan" \
