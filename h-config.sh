@@ -6,6 +6,7 @@
 
 CUSTOM_ALGO=ProgPowZ
 conf="-P stratum1+tcp://${CUSTOM_TEMPLATE}@${CUSTOM_URL} --api-port 3334 --HWMON 1 --report-hashrate ${CUSTOM_USER_CONFIG}"
+MINER_API_PORT=3334
 
 #replace tpl values in whole file
 [[ -z $EWAL && -z $ZWAL && -z $DWAL ]] && echo -e "${RED}No WAL address is set${NOCOLOR}"
