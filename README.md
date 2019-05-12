@@ -1,6 +1,6 @@
 ## JRiggs28  HiveOS Progminer-ZANO Custom Miner
-** V1.0
-This is a progminer fork made by the Zano team to work with ProgPowZ.
+** V1.0 - Base Run
+
 
 This DOES NOT do stats yet but you can start and stop via flight sheet. I plan to get stats going but at least this works.
 
