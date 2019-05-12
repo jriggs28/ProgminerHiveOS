@@ -4,6 +4,8 @@
 
 This DOES NOT do stats yet but you can start and stop via flight sheet. I plan to get stats going but at least this works.
 
+Feel free to improve on it. 
+
 
 ## How To:
 
