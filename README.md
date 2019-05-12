@@ -12,6 +12,7 @@ This DOES NOT do stats yet but you can start and stop via flight sheet. I plan t
 
 
 2) SETUP MINER CONFIG
+(minerconfig.jpg)
 
 - Make sure Miner name is:
 progminer-zano
