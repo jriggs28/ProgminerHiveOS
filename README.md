@@ -36,7 +36,7 @@ The Alttank Army*
 
 - Enter the installation URL: 
 
-  https://github.com/jriggs28/ProgminerHiveOS/raw/master/releases/progminer-zano-release.tar.gz
+  https://github.com/jriggs28/ProgminerHiveOS/raw/master/releases/progminer-zano-2.tar.gz
 
 - Hash Algorithm:
 
