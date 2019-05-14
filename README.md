@@ -1,6 +1,7 @@
 ## JRiggs28  HiveOS Progminer-ZANO Custom Miner
 
 ** V2 - Custom Miner w/ stats
+
 ** V1 - Base Run
 
 
