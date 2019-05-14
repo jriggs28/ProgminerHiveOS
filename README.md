@@ -10,12 +10,15 @@ This DOES NOT do stats yet but you can start and stop via flight sheet. I plan t
 Feel free to improve on it. 
 
 Big Thanks to:
+
 @ThSupremeLeader  for the fix 
+
 @Clintar - for the base binary
+
 Zano Team - for making Zano :)
 
-and of course
-The Alttank Army
+*and of course
+The Alttank Army*
 
 
 ## How To:
