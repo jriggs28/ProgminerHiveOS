@@ -1,10 +1,20 @@
 ## JRiggs28  HiveOS Progminer-ZANO Custom Miner
-** V1.0 - Base Run
+
+** V2 - Custom Miner w/ stats
+** V1 - Base Run
 
 
 This DOES NOT do stats yet but you can start and stop via flight sheet. I plan to get stats going but at least this works.
 
 Feel free to improve on it. 
+
+Big Thanks to:
+@ThSupremeLeader  for the fix 
+@Clintar - for the base binary
+Zano Team - for making Zano :)
+
+and of course
+The Alttank Army
 
 
 ## How To:
