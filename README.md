@@ -4,8 +4,7 @@
 
 ** V1 - Base Run
 
-
-This DOES NOT do stats yet but you can start and stop via flight sheet. I plan to get stats going but at least this works.
+Stats work! This will be the semi-final version unless i find time to add more, if you see something that can be improved let me know! I will implement it.
 
 Feel free to improve on it. 
 
